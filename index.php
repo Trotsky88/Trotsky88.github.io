@@ -9,4 +9,5 @@ echo<<<_END
         <img id = 'Zac' src='img/zac.jpg' alt='zac' height='300' weight='300'>
     </div>
 _END;
+require_once 'footer.php';
 ?>

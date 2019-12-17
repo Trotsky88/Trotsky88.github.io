@@ -1,5 +1,10 @@
 <?php
-    header("Location: www.zacsliker.com");
+    RewriteEngine On
+    RewriteBase /
+
+    RewriteCond %{REQUEST_URI} ^$
+    RewriteCond %{HTTP_HOST} ^zacsliker.com$
+    RewriteRule ^$ http://zacsliker.com/index.php [L,R=301]
 session_start();
 require_once 'headder.php';
     $error = $user = $pass = "";

@@ -1,4 +1,5 @@
 <?php
+    header("Location: https://www.zacsliker.com");
 session_start();
 require_once 'headder.php';
     $error = $user = $pass = "";

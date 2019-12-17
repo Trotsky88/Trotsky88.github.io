@@ -1,4 +1,4 @@
 <?php
 session_start();
-header("Location: http://www.zac.com/index");
+header("Location: http://www.zac.com");
 ?>

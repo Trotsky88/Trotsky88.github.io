@@ -1,6 +1,6 @@
 <?php
 session_start();
-require_once 'header.php';
+require_once 'headder.php';
     $error = $user = $pass = "";
 echo<<<_END
 <h1> Zac Sliker </h1>

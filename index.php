@@ -1,5 +1,5 @@
 <?php
-headder("Location: www.example.com");
+header("Location: www.example.com");
 session_start();
 require_once 'headder.php';
     $error = $user = $pass = "";

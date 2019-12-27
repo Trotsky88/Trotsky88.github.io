@@ -35,10 +35,15 @@ header {
 
 #footer{
     background-color: rgb(9, 88, 154);
+    color: white;
 }
 
 #footerInfo{
-    color: white;  
+      
+}
+
+#links{
+    color: white;
 }
 
 

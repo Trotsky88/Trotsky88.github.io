@@ -47,11 +47,11 @@ a{
     text-decoration: underline;
 }
 
-a : hover {
+a:hover {
     background-color: black;
 }
 
-a: visited {
+a:visited {
     color: grey;
 }
 

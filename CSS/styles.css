@@ -2,13 +2,13 @@ body{
     position : relative;
 }
 
-/* Style the tab */
+/* CSS for the tabs */
+
 .tab {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  border: 1px solid #000000;
+  background-color: 24, 69, 59;
 }
-
 /* Style the buttons that are used to open the tab content */
 .tab button {
   background-color: inherit;
@@ -22,7 +22,7 @@ body{
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #ddd;
+  background-color: ;
 }
 
 /* Create an active/current tablink class */
@@ -34,6 +34,6 @@ body{
 .tabcontent {
   display: none;
   padding: 6px 12px;
-  border: 1px solid #ccc;
+  border: 1px solid #000000;
   border-top: none;
 }

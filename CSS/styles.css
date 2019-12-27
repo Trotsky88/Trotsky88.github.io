@@ -37,6 +37,10 @@ header {
     background-color: rgb(9, 88, 154);
 }
 
+#footerInfo{
+    color: white;  
+}
+
 
 /* CSS for the tabs */
 

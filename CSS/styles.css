@@ -6,6 +6,6 @@ body{
  display: block; 
 }
  
-#About, #History, #Hobbies, #Awards, #Resume {
+#About{
  display: none; 
 }

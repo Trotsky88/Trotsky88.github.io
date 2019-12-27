@@ -14,12 +14,12 @@
     <body data-spy="scroll" data-target=".navbar" data-offset="1000">
         <!-- Tabs -->
         <div class = "tab">
-        <button class = "tablinks" onclick = "JavaScript:selectTab(1);">Home</button>
-        <button class = "tablinks" onclick = "JavaScript:selectTab(2);">About</button>
-        <button class = "tablinks" onclick = "JavaScript:selectTab(3);">Work History</button>
-        <button class = "tablinks" onclick = "JavaScript:selectTab(4);">Hobbies</button>
-        <button class = "tablinks" onclick = "JavaScript:selectTab(5);">Awards</button>
-        <button class = "tablinks" onclick = "JavaScript:selectTab(6);">Resume</button>
+        <button class = "tablinks" onclick = "openTab(event, 'Home')" id="defaultOpen">Home</button>
+        <button class = "tablinks" onclick = "openTab(event, 'About')">About</button>
+        <button class = "tablinks" onclick = "openTab(event, 'History')">Work History</button>
+        <button class = "tablinks" onclick = "openTab(event, 'Hobbies')">Hobbies</button>
+        <button class = "tablinks" onclick = "openTab(event, 'Awards')">Awards</button>
+        <button class = "tablinks" onclick = "openTab(event, 'Resume')">Resume</button>
         </div>
         
         <!-- content -->

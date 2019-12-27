@@ -40,11 +40,11 @@ header {
 #footer{
     background-color: rgb(9, 88, 154);
     color: white;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
 }
 
-#footerInfo{
-      
-}
 
 a{
     color: white;

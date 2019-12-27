@@ -48,7 +48,11 @@ a{
 }
 
 a : hover {
-    color : black;
+    background-color: black;
+}
+
+a: visited {
+    color: grey;
 }
 
 

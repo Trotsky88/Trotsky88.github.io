@@ -47,6 +47,10 @@ a{
     text-decoration: underline;
 }
 
+a : hover {
+    color : black;
+}
+
 
 /* CSS for the tabs */
 

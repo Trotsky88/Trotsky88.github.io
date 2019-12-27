@@ -6,6 +6,26 @@ h2{
     text-align: center;
 }
 
+.h2-responsive{
+    color: black;
+}
+
+#wrapper {
+    margin: auto;
+    max-width: 800px;
+    border-style: ridge;
+    border-width: 0 6px;
+    border-color: #222;
+    padding: 0 5px;
+}
+
+#content {
+    min-height: 100px;
+    padding: 0 50px;
+    background-color: white;
+    padding-bottom: 20px;
+}
+
 header {
 
 }

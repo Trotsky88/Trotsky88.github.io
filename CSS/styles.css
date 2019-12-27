@@ -10,6 +10,7 @@ h3{
     text-align: center;
 }
 
+
 .h3-responsive{
     color: black;
 }
@@ -40,6 +41,10 @@ header {
 #footer{
     background-color: rgb(9, 88, 154);
     color: white;
+}
+
+body{
+    background-color: lightskyblue;
 }
 
 

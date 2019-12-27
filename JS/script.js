@@ -14,7 +14,6 @@ function openPage(pageName, elmnt) {
 
   // Show the specific tab content
   document.getElementById(pageName).style.display = "block";
-
 }
 
 // Get the element with id="defaultOpen" and click on it

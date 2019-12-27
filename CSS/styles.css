@@ -48,13 +48,8 @@ a{
 }
 
 a:hover {
-    background-color: black;
+    color: black;
 }
-
-a:visited {
-    color: grey;
-}
-
 
 /* CSS for the tabs */
 

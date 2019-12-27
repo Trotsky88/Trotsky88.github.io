@@ -40,7 +40,6 @@ header {
   overflow: hidden;
   border: 1px solid #000000;
   background-color: rgb(9, 88, 154);
-  color: white;
 }
 
 /* Style the buttons that are used to open the tab content */
@@ -70,5 +69,6 @@ header {
   padding: 6px 12px;
   border: 1px solid #000000;
   border-top: none;
+  color: white;
 }
 

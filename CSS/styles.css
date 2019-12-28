@@ -15,25 +15,15 @@ h3{
     color: black;
 }
 
-#wrapper {
-    margin: auto;
-    max-width: 800px;
-    border-style: ridge;
-    border-width: 0 6px;
-    border-color: #222;
-    padding: 0 5px;
+#page-container {
+  position: relative;
+  min-height: 100vh;
 }
 
-#content {
-    min-height: 100px;
-    padding: 0 50px;
-    background-color: white;
-    padding-bottom: 20px;
+#content-wrap {
+  padding-bottom: 2.5rem;    /* Footer height */
 }
 
-header {
-
-}
 .resume{
     background-color: forestgreen;
 }
@@ -41,6 +31,10 @@ header {
 #footer{
     background-color: rgb(9, 88, 154);
     color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
 }
 
 body{

@@ -82,7 +82,7 @@ a:hover {
 /* Style the tab content */
 .tabcontent {
   display: none;
-  padding: 100%;
+  padding: height = 90% width = 100%;
   border: 1px solid #000000;
   border-top: none; 
 }

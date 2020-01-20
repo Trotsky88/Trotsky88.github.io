@@ -20,6 +20,11 @@ h3{
   padding-bottom: 5rem;    
 }
 
+.pc{
+    transform: rotate(90deg);
+    align-content: left;
+}
+
 .resume{
     background-color: forestgreen;
 }

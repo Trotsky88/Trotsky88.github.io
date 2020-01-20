@@ -28,6 +28,10 @@ h3{
 .left{
     align-content: left;
 }
+.frat{
+    transform: rotate(180deg);
+    align-content: left;
+}
 
 .resume{
     background-color: forestgreen;

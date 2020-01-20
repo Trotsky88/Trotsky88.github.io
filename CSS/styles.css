@@ -22,7 +22,11 @@ h3{
 
 .pc{
     transform: rotate(90deg);
-    text-align: left;
+    align-content: right;
+}
+
+.left{
+    align-content: left;
 }
 
 .resume{

@@ -20,17 +20,8 @@ h3{
   padding-bottom: 5rem;    
 }
 
-.pc{
-    transform: rotate(90deg);
-    align-content: right;
-}
-
-.left{
-    align-content: left;
-}
-.frat{
+.rotate{
     transform: rotate(180deg);
-    align-content: left;
 }
 
 .resume{

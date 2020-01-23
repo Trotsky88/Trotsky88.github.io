@@ -11,6 +11,10 @@ h3{
     align-content: center;
 }
 
+.right{
+    text-align: right;
+}
+
 
 #page-container {
   position: relative;

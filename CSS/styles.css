@@ -1,6 +1,9 @@
 body{
     position : relative;
     font-family: "Times New Roman", Times, serif;
+    background-color: lightgrey;
+}
+p{
     font-size: 18pt;
 }
 
@@ -44,11 +47,6 @@ h3{
     height: 5rem;
     
 }
-
-body{
-    background-color: lightgrey;
-}
-
 
 a{
     color: white;

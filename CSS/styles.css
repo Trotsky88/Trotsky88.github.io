@@ -1,5 +1,6 @@
 body{
-    position : relative;
+    font-size: 16px;
+    position : fixed;
     font-family: "Times New Roman", Times, serif;
     background-color: lightgrey;
 }
@@ -9,6 +10,23 @@ font-size: 10pt;
 
 h3{
     text-align: center;
+}
+
+img{
+    
+}
+
+#date{
+    
+}
+
+#wrapper{
+    margin: auto;
+    max-width: 800px;
+    border-style: ridge;
+    border-width: 0 6px;
+    border-color: #222;
+    padding: 0 5px;
 }
 
 #center{
